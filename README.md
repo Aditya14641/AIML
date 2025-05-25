@@ -1,2 +1,2 @@
 # AIML
-AIML CODE
+This code performs customer segmentation using K-Means and Hierarchical clustering on a mall customer dataset. It selects "Annual Income" and "Spending Score" as features, uses the Elbow Method to determine the optimal number of K-Means clusters (k=5), and visualizes the clusters using scatter plots and a 3D plot. It also applies Hierarchical Clustering with the same number of clusters and plots a dendrogram. Additionally, it encodes gender, and profiles each K-Means cluster based on age, gender, income, and spending score. The goal is to understand different customer groups for targeted marketing or business strategies.
